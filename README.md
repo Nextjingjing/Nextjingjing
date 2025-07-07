@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/pruek.tanvorakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pruek.tanvorakul" height="30" width="40" /></a>
+<a href="https://fb.com//pruek.tanvorakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/pruek.tanvorakul" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/next_pruek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/next_pruek/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@02%e0%b8%a0%e0%b8%a4%e0%b8%a8%e0%b8%95%e0%b8%b1%e0%b8%93%e0%b8%91%e0%b9%8c%e0%b8%a7%e0%b8%a3%e0%b8%81%e0%b8%b8%e0%b8%a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@02%e0%b8%a0%e0%b8%a4%e0%b8%a8%e0%b8%95%e0%b8%b1%e0%b8%93%e0%b8%91%e0%b9%8c%e0%b8%a7%e0%b8%a3%e0%b8%81%e0%b8%b8%e0%b8%a5" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c//@02ภฤศตัณฑ์วรกุล" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/@02ภฤศตัณฑ์วรกุล" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
