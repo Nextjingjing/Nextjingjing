@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nextjingjing" alt="nextjingjing" /></a> </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/nextjingjing.png" alt="Your Image Badge" />
-
 - 📝 I regularly write articles on [https://medium.com/@pruektanvorakul](https://medium.com/@pruektanvorakul)
 
 - 📄 My TryHackme [https://tryhackme.com/p/nextjingjing](https://tryhackme.com/p/nextjingjing)
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/nextjingjing.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
