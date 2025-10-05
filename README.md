@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nextjingjing</h1>
 <h3 align="center">A Coumputer Engineer.</h3>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5789837" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/nextjingjing.png" alt="Your Image Badge" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nextjingjing&label=Profile%20views&color=0e75b6&style=flat" alt="nextjingjing" /> </p>
 
